@@ -34,7 +34,7 @@ $(document).ready(function () {
     function generateShibiValues() {
         for (i = 1; i < 5; i++) {
             var shib = $("#shib-" + i);
-            shib.data("points", (Math.floor(Math.random() * (20 - 1) + 1)));
+            shib.data("points", (Math.floor(Math.random() * (12 - 1) + 1)));
         }
     }
     

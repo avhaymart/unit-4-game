@@ -9,6 +9,7 @@ $(document).ready(function () {
         console.log("Button clicked");
         $("#splashScreen").fadeOut((300), function () {
             $(this).hide();
+            $("body").css("background-color", "#fff");
             $("#gameContainer").fadeIn(300);
         });
     });
@@ -89,6 +90,7 @@ $(document).ready(function () {
 
     $("#instructions").on("click", function () {
         $("#gameContainer").fadeOut((300), function () {
+            $("body").css("background-color", "#E9ECEF")
             $("#splashScreen").fadeIn(300);
         });
     });

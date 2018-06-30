@@ -1,0 +1,9 @@
+.hover-tip:hover {
+    cursor: pointer;
+}
+
+.sticky {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}

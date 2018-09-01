@@ -1,2 +1,3 @@
-# unit-4-game
-shibi
+# Shibi Collector Game
+
+This is a very simple game made with jQuery and Bootstrap.

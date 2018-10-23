@@ -15,5 +15,5 @@
 * Running the Code
   * Clone this GitHub repository into a directory of your choice.
   ```git clone https://github.com/avhaymart/shibi-collector.git```
-  * In the root of the directory, open index.html.
+  * In the root of the directory, open ```index.html```.
 
